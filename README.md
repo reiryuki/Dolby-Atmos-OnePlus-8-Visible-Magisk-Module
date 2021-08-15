@@ -14,9 +14,9 @@
 
 ## Requirements
 - Android 9 until 12
-- 64 bit architecture
+- Architecture 64 bit
 - Magisk installed
-- Bluetooth A2DP offload supported ROM (If not supported, read Optional to use DaxUI)
+- Bluetooth A2DP offload supported ROM (If not supported, READ Optionals to use DaxUI!)
 
 ## Warning!!!
 - Prepare for possibility of bootloop or even brick because this is not a pure Magisk Module
@@ -25,12 +25,12 @@
 - Don't use ACDB module!
 - Remove another Dolby module with different name
 - Reboot
-- If your ROM has Dolby in-built, then you need to enable Dolby data clean-up for the first time (read Optional)
+- If your ROM has Dolby in-built, then you need to enable Dolby data clean-up for the first time (READ Optionals!)
 - Install via Magisk Manager or Recovery
 - Install Audio Modification Library in Magisk download if using audio mods other than this
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
-## Optional
+## Optionals
 - https://t.me/androidryukimodsdiscussions/2616
 
 ## Troubleshootings
@@ -41,11 +41,9 @@
 - If you don't do above, it will be closed immediately
 
 ## Credits and Contributors
-- @aquahol
-- @guitardedhero
-- @BanCodrut
+- Android Ryuki Mods Discussions Team
+- https://t.me/androidryukimodsdiscussions/25188
 - @Foxtrot47
-- @aip_x
 - @adi153
 - @Deivid_21
 
