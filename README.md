@@ -10,7 +10,8 @@
 - [DaxUI](https://t.me/androidryukimodsdiscussions/786)
 
 ## Tested on
-- Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
+- Android 10 arm64 CRDroid ROM
+- Android 11 arm64 DotOS ROM
 
 ## Requirements
 - Android 9 until 12
